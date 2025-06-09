@@ -13,7 +13,7 @@ Campinas, 09 de junho de 2025
 
 *Projeto em Andamento*
 
-  -Por enquanto, somente capta audio do microfone (teste)
+  -Por enquanto, testando captação de audio
 
 ---
 
